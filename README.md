@@ -2,6 +2,9 @@ This is an updated version of Yolov5 algorithm which is now able to do Object De
 It can also conduct real time Object Detection
 
 
+However, this algorithm can only detect the 80 classes from coco.names training set and have not been tested on a custom training set yet.
+
+
 
 <details open>
 <summary>Install</summary>
