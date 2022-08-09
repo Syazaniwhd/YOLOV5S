@@ -16,6 +16,9 @@ cd yolov5
 pip install -r requirements.txt  # install
 ```
 
+<details open>
+<summary>Running Program</summary>
+
 ```bash
 python detect.py --weights yolov5s.pt --source data/images/bus.jpg
 ## To test on other images: Download image of interest into "yolov5/data/images" and run the same command as above, but change the last part (bus.jpg) accordingly
