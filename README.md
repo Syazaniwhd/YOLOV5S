@@ -5,6 +5,9 @@ It can also conduct real time Object Detection
 However, this algorithm can only detect the 80 classes from coco.names training set and have not been tested on a custom training set yet.
 
 
+For a video tutorial refer to this link: https://www.youtube.com/watch?v=_rgRx2UpNzY
+
+
 
 <details open>
 <summary>Install</summary>
