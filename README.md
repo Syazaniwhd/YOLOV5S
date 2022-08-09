@@ -78,5 +78,8 @@ cd yolov5
 pip install -r requirements.txt  # install
 ```
 
-
+```bash
+   python detect.py --weights yolov5s.pt --source data/images/bus.jpg
+   
+```
 
