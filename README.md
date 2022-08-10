@@ -1,4 +1,4 @@
-This is an updated version of Yolov5 algorithm which is now able to do Object Detection in on any locally downloaded images or videos.
+This is an updated version of Yolov5 algorithm which is now able to do Object Detection on any locally downloaded images or videos.
 It can also conduct real time Object Detection
 
 
@@ -51,6 +51,6 @@ python detect.py --weights yolov5s.pt --source 0
   
   
 <details open>
-<summary>Unsuccessful sample detections (Object classes not within the 80 traines classes) </summary>
+<summary>Unsuccessful sample detections (Object classes not within the 80 trained classes) </summary>
 
 
