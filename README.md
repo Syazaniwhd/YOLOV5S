@@ -53,4 +53,5 @@ python detect.py --weights yolov5s.pt --source 0
 <details open>
 <summary>Unsuccessful sample detections (Object classes not within the 80 trained classes) </summary>
 
-
+![Fish](https://github.com/Syazaniwhd/YOLOV5S/blob/main/runs/detect/ezgif.com-gif-maker.gif)
+![Balloon](https://github.com/Syazaniwhd/YOLOV5S/blob/main/runs/detect/balloongif.gif)
