@@ -27,7 +27,8 @@ pip install -r requirements.txt  # install
 
 ```bash
 python detect.py --weights yolov5s.pt --source data/images/bus.jpg
-## To test on other images: Download image of interest into "yolov5/data/images" and run the same command as above, but change the last part (bus.jpg) accordingly
+## To test on other images: Download image of interest into "yolov5/data/images" in .jpg or .mp4 format
+## Run the same command as above, but change the last part (bus.jpg to car.jpg or fish.mp4) accordingly
 ## For example python detect.py --weights yolov5s.pt --source data/images/car.jpg
 ## Change to source 0 for real time detection with webcam/camera
 python detect.py --weights yolov5s.pt --source 0
