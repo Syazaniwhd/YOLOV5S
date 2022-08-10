@@ -43,7 +43,7 @@ python detect.py --weights yolov5s.pt --source 0
 ```
 
 <details open>
-<summary>Sample detections (Object classes within coco.names) </summary>
+<summary>Sample detections (Object classes within the 80 trained classes) </summary>
 
 ![bus](https://user-images.githubusercontent.com/109465920/183842718-7aa99d40-2503-42bb-9e33-fcfe11328569.jpeg)
 ![highway](https://user-images.githubusercontent.com/109465920/183842935-2a515222-797b-44e8-8cd6-e790c5f587b3.jpeg)
@@ -51,6 +51,6 @@ python detect.py --weights yolov5s.pt --source 0
   
   
 <details open>
-<summary>Unsuccessful sample detections (Object classes not within coco.names) </summary>
+<summary>Unsuccessful sample detections (Object classes not within the 80 traines classes) </summary>
 
 
