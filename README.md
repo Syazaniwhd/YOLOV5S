@@ -7,6 +7,14 @@ However, this algorithm can only detect the 80 classes from coco.names training 
 
 For a video tutorial refer to this link: https://www.youtube.com/watch?v=_rgRx2UpNzY
 
+<details open>
+<summary>Set up Virtual Environment</summary>
+  
+```bash
+# From terminal or anaconda prompt
+  conda create -n yolov5s python=3.9
+  conda activate yolov5s
+```
 
 
 <details open>
